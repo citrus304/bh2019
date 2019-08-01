@@ -3,7 +3,7 @@
 
 ### BlackHat 2019 Trainings (August 3rd-6th, 2019) presented by GTK Cyber
 
-<img src="img/bah.jpeg" width="150" align="right" > GTK Cyber [www.gtkcyber.com](https://www.gtkcyber.com) was founded to bridge the gap between Data Science and Cyber Security and not
+GTK Cyber [www.gtkcyber.com](https://www.gtkcyber.com) was founded to bridge the gap between Data Science and Cyber Security and not
 only provide high standard hands-on trainings, but introduce students to the most cutting-edge technologies and advancements in artificial intelligence,
 all with a focus on direct applicability to cyber security.
 
