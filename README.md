@@ -1,9 +1,9 @@
 # Applied Data Science for Security Professionals
 <img src="img/logo_white_bkg_small.png" width="200" align="left" >
 
-### Booz Allen Trainings (June 17th-20th, 2019) presented by GTK Cyber
+### BlackHat 2019 Trainings (August 3rd-6th, 2019) presented by GTK Cyber
 
-<img src="img/bah.jpeg" width="150" align="right" > GTK Cyber [www.gtkcyber.com](https://www.gtkcyber.com) was founded to bridge the gap between Data Science and Cyber Security and not
+GTK Cyber [www.gtkcyber.com](https://www.gtkcyber.com) was founded to bridge the gap between Data Science and Cyber Security and not
 only provide high standard hands-on trainings, but introduce students to the most cutting-edge technologies and advancements in artificial intelligence,
 all with a focus on direct applicability to cyber security.
 
@@ -17,10 +17,12 @@ Griffon is a environment for data science. Griffon is based on Ubuntu MATE and i
 ### Instructors
 
 - Charles Givre - Data Scientist:  charles.givre@gtkcyber.com
+- Austin Taylor - Cyber Security Researcher: austin.taylor@gtkcyber.com
+- Brian Genz - Senior Instructor: brian.genz@gtkcyber.com
 
 ### Lectures:
 
-<a href="https://github.com/gtkcyber/applied_data_science_ing/tree/master/slides">/Slides</a>
+<a href="slides/">/Slides</a>
 - <a href="slides/Module 0 - Introduction.pdf">Introduction</a>
 - <a href="slides/Module 0.5 - Overview of Regular Expressions.pdf">Introduction to Regular Expressions</a>
 - <a href="slides/Module 1 - Exploratory Data Analysis in 1 Dimension.pdf">Exploratory Data Analysis in 1 Dimension</a>
