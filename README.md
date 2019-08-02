@@ -25,17 +25,20 @@ Griffon is a environment for data science. Griffon is based on Ubuntu MATE and i
 ### Lectures:
 
 <a href="slides/">/Slides</a>
-- <a href="slides/Module 0 - Introduction.pdf">Introduction</a>
-- <a href="slides/Module 0.5 - Overview of Regular Expressions.pdf">Introduction to Regular Expressions</a>
-- <a href="slides/Module 1 - Exploratory Data Analysis in 1 Dimension.pdf">Exploratory Data Analysis in 1 Dimension</a>
-- <a href="slides/Module 2 - Exploratory Data Analysis in 2 Dimensions.pdf">Exploratory Data Analysis in 2 Dimensions</a>
-- <a href="slides/Module 4 - Data Visualization.pdf">Data Visualization</a>
-- <a href="slides/Module 5.1 - Machine Learning (Feature Engineering).pdf">Machine Learning (Feature Engineering)</a>
-- <a href="slides/Module 5.2 - Machine Learning (Supervised).pdf">Machine Learning (Supervised)</a>
-- <a href="slides/Module 6 - Machine Learning (Unsupervised).pdf">Machine Learning (Unsupervised)</a>
-- <a href="slides/Module 7 - Machine Learning (Unsupervised).pdf">Anomaly Detetection</a>
-- <a href="slides/Module 9 - Hacking Machine Learning Models.pdf">Hacking Machine Learning Models</a>
-- <a href="slides/Module 3 - Hunting with Data Science.pdf">Hunting with Data Science</a>
+- <a href="https://github.com/gtkcyber/applied_data_science_bh2019/blob/master/slides/Module%200%20Introduction.pdf">Introduction</a>
+- <a href="https://github.com/gtkcyber/applied_data_science_bh2019/blob/master/slides/Module%200.5%20-%20Overview%20of%20Regular%20Expressions.pdf">Overview of Regular Expressions</a>
+- <a href="https://github.com/gtkcyber/applied_data_science_bh2019/blob/master/slides/Module%201%20-%20Exploratory%20Data%20Analysis%20in%201%20Dimension.pdf">Exploratory Data Analysis in 1 Dimension</a>
+- <a href="https://github.com/gtkcyber/applied_data_science_bh2019/blob/master/slides/Module%202%20-%20Exploratory%20Data%20Analysis%20in%202%20Dimensions.pdf">Exploratory Data Analysis in 2 Dimensions</a>
+- <a href="https://github.com/gtkcyber/applied_data_science_bh2019/blob/master/slides/Module%203%20-%20Drilling%20Data.pdf">Drilling Data</a>
+- <a href="https://github.com/gtkcyber/applied_data_science_bh2019/blob/master/slides/Module%204%20-%20Data%20Visualization%20.pdf">Data Visualization</a>
+- <a href="https://github.com/gtkcyber/applied_data_science_bh2019/blob/master/slides/Module%205.1%20-%20Machine%20Learning%20(Feature%20Engineering).pdf">Machine Learning (Feature Engineering)</a>
+- <a href="https://github.com/gtkcyber/applied_data_science_bh2019/blob/master/slides/Module%205.2%20-%20Machine%20Learning%20(Supervised).pdf">Machine Learning (Supervised)</a>
+- <a href="https://github.com/gtkcyber/applied_data_science_bh2019/blob/master/slides/Module%206%20-%20Machine%20Learning%20(Unsupervised).pdf">Machine Learning (Unsupervised)</a>
+- <a href="https://github.com/gtkcyber/applied_data_science_bh2019/blob/master/slides/Module%207%20Anomaly%20Detection%20.pdf">Anomaly Detection</a>
+- <a href="https://github.com/gtkcyber/applied_data_science_bh2019/blob/master/slides/Module%208%20PySpark%20%2B%20ELK%20%2B%20Kafka.pdf">PySpark + ELK + Kafka</a>
+- <a href="https://github.com/gtkcyber/applied_data_science_bh2019/blob/master/slides/Module%209%20-%20Overview%20of%20Deep%20Learning.pdf">Overview of Deep Learning</a>
+- <a href="https://github.com/gtkcyber/applied_data_science_bh2019/blob/master/slides/Module%2010%20Hacking%20Machine%20Learning%20Models.pdf">Hacking Machine Learning Models</a>
+- <a href="https://github.com/gtkcyber/applied_data_science_bh2019/blob/master/slides/Module%2011%20-%20Hunting%20with%20Data%20Science.pdf">Hunting with Data Science</a>
 
 
 
@@ -64,7 +67,7 @@ Development Environment
 
 
 All exercises either as jupyter notebooks (.ipynb) or Zeppelin notebook (.json) are listed below.
-Solutions to all challenges are within the ```answers``` folder (also contains additional notebooks and resources).
+Solutions to all challenges are within the ```answers``` folder (also contains additional notebooks and resources).  The worksheets are numbered so that the first number references the module and the second number refers to the position in the module.  For example, the second worksheet in module 1 is Worksheet 1.2.  
 
 Notebooks/Scripts/Exercises and Data
 
@@ -74,15 +77,15 @@ Notebooks/Scripts/Exercises and Data
     - Worksheet 1.2 - Exploring One Dimensional Data.ipynb
     - Worksheet 2.1 - Working with Two Dimensional Data.ipynb
     - Worksheet 2.2 - Exploratory Data Analysis.ipynb
-    - Worksheet 3 - Hunting with Data Science.ipynb
+    - Worksheet 3 - Working with Drill.ipynb
     - Worksheet 4 - Data Visualization.ipynb
     - Worksheet 5.1 - Feature Engineering.ipynb
     - Worksheet 5.2 - Malicious URL Classification .ipynb
     - Worksheet 5.3 - Tuning your Classifier.ipynb
     - Worksheet 5.4 - Automate it All!.ipynb
     - Worksheet 6.0 - Clustering.ipynb
-    - Worksheet 8 - Working with Drill.ipynb
-
+    - Worksheet 7 - Anomaly Detection.ipynb
+    - Worksheet 11 - Hunting with Data Science.ipynb
 
 - **answers/**
 
@@ -91,14 +94,16 @@ Notebooks/Scripts/Exercises and Data
     - Worksheet 1.2 - Exploring One Dimensional Data - Answers.ipynb
     - Worksheet 2.1 - Exploring Two Dimensional Data - Answers.ipynb
     - Worksheet 2.2 - Exploratory Data Analysis - Answers.ipynb
-    - Worksheet 3 - Hunting with Data Science - Answers.ipynb
+    - Worksheet 3 - Working with Drill - Answers.ipynb
     - Worksheet 4 - Data Visualization - Answers.ipynb
     - Worksheet 5.1 - Feature Engineering - Answers.ipynb
     - Worksheet 5.2 - Malicious URL Classification - Answers.ipynb
     - Worksheet 5.3 - Tuning your Classifier - Answers.ipynb
     - Worksheet 5.4 - Automate it All! - Answers.ipynb
     - Worksheet 6.0 - Clustering - Answers.ipynb
-    - Worksheet 8 - Working with Drill - Answers.ipynb
+    - Worksheet 7 - Anomaly Detection - Answers.ipynb
+    - Worksheet 11 - Hunting with Data Science - Answers.ipynb
+
     
     
     BONUS notebooks:
