@@ -4,17 +4,18 @@
 
 Slides:
 
-- <a href="Module 0 - Introduction.pdf">Introduction</a>
-- <a href="Module 0.5 - Overview of Regular Expressions.pdf">Overview of Regular Expressions</a>
-- <a href="Module 1 - Exploratory Data Analysis in 1 Dimension.pdf">Exploratory Data Analysis in 1 Dimension</a>
-- <a href="Module 2 - Exploratory Data Analysis in 2 Dimensions.pdf">Exploratory Data Analysis in 2 Dimensions</a>
-- <a href="Module 3 - Drilling Data.pdf">Drilling Data</a>
-- <a href="Module 4 - Data Visualization.pdf">Data Visualization</a>
-- <a href="Module 5.1 - Machine Learning (Feature Engineering).pdf">Machine Learning (Feature Engineering)</a>
-- <a href="Module 5.2 - Machine Learning (Supervised).pdf">Machine Learning (Supervised)</a>
-- <a href="Module 6 - Machine Learning (Unsupervised).pdf">Machine Learning (Unsupervised)</a>
-- <a href="Module 7 - Anomaly Detection.pdf">Anomaly Detection</a>
-- <a href="Module 8 - PySpark + ELK + Kafka.pdf">PySpark + ELK + Kafka</a>
-- <a href="Module 9 - Overview of Deep Learning.pdf">Overview of Deep Learning</a>
-- <a href="Module 10 - Hacking Machine Learning Models.pdf">Hacking Machine Learning Models</a>
-- <a href="Module 11 - Hunting with Data Science.pdf">Hunting with Data Science</a>
+- <a href="https://github.com/gtkcyber/applied_data_science_bh2019/blob/master/slides/Module 0 - Introduction.pdf">Introduction</a>
+- <a href="https://github.com/gtkcyber/applied_data_science_bh2019/blob/master/slides/Module 0.5 - Overview of Regular Expressions.pdf">Overview of Regular Expressions</a>
+- <a href="https://github.com/gtkcyber/applied_data_science_bh2019/blob/master/slides/Module 1 - Exploratory Data Analysis in 1 Dimension.pdf">Exploratory Data Analysis in 1 Dimension</a>
+- <a href="https://github.com/gtkcyber/applied_data_science_bh2019/blob/master/slides/Module 2 - Exploratory Data Analysis in 2 Dimensions.pdf">Exploratory Data Analysis in 2 Dimensions</a>
+- <a href="https://github.com/gtkcyber/applied_data_science_bh2019/blob/master/slides/Module 3 - Drilling Data.pdf">Drilling Data</a>
+- <a href="https://github.com/gtkcyber/applied_data_science_bh2019/blob/master/slides/Module 4 - Data Visualization.pdf">Data Visualization</a>
+- <a href="https://github.com/gtkcyber/applied_data_science_bh2019/blob/master/slides/Module 5.1 - Machine Learning (Feature Engineering).pdf">Machine Learning (Feature Engineering)</a>
+- <a href="https://github.com/gtkcyber/applied_data_science_bh2019/blob/master/slides/Module 5.2 - Machine Learning (Supervised).pdf">Machine Learning (Supervised)</a>
+- <a href="https://github.com/gtkcyber/applied_data_science_bh2019/blob/master/slides/Module 6 - Machine Learning (Unsupervised).pdf">Machine Learning (Unsupervised)</a>
+- <a href="https://github.com/gtkcyber/applied_data_science_bh2019/blob/master/slides/Module 7 - Anomaly Detection.pdf">Anomaly Detection</a>
+- <a href="https://github.com/gtkcyber/applied_data_science_bh2019/blob/master/slides/Module 8 - PySpark + ELK + Kafka.pdf">PySpark + ELK + Kafka</a>
+- <a href="https://github.com/gtkcyber/applied_data_science_bh2019/blob/master/slides/Module 9 - Overview of Deep Learning.pdf">Overview of Deep Learning</a>
+- <a href="https://github.com/gtkcyber/applied_data_science_bh2019/blob/master/slides/Module 10 - Hacking Machine Learning Models.pdf">Hacking Machine Learning Models</a>
+- <a href="https://github.com/gtkcyber/applied_data_science_bh2019/blob/master/slides/Module 11 - Hunting with Data Science.pdf">Hunting with Data Science</a>
+https://github.com/gtkcyber/applied_data_science_bh2019/blob/master/slides/Module%204%20-%20Data%20Visualization%20.pdf
